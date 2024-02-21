@@ -1,0 +1,792 @@
+====================================================================================================
+cpu利用率：0.0
+内存利用率：28.8
+====================================================================================================
+cpu利用率：22.2
+内存利用率：28.2
+====================================================================================================
+cpu利用率：11.8
+内存利用率：29.6
+====================================================================================================
+cpu利用率：0.0
+内存利用率：30.4
+====================================================================================================
+cpu利用率：0.0
+内存利用率：33.6
+====================================================================================================
+cpu利用率：11.1
+内存利用率：33.3
+====================================================================================================
+cpu利用率：17.6
+内存利用率：31.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=6.225 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 6.225/6.225/6.225/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.144 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.144/0.144/0.144/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：13.1
+内存利用率：33.2
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.226 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.226/3.226/3.226/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.065 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.065/0.065/0.065/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：4.5
+内存利用率：34.3
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=2.925 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.925/2.925/2.925/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.161 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.161/0.161/0.161/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：10.6
+内存利用率：34.3
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=2.950 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.950/2.950/2.950/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.145 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.145/0.145/0.145/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：8.3
+内存利用率：34.5
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.189 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.189/3.189/3.189/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.156 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.156/0.156/0.156/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：34.7
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=5.646 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 5.646/5.646/5.646/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.153 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.153/0.153/0.153/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：35.4
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=2.659 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.659/2.659/2.659/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.121 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.121/0.121/0.121/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：13.3
+内存利用率：35.4
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=4.236 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.236/4.236/4.236/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.159 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.159/0.159/0.159/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：16.4
+内存利用率：35.6
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=4.340 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.340/4.340/4.340/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.103 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.103/0.103/0.103/nan ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：35.3
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.333 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.333/3.333/3.333/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.078 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.078/0.078/0.078/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：8.1
+内存利用率：33.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.055 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.055/3.055/3.055/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.160 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.160/0.160/0.160/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：34.2
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.383 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.383/3.383/3.383/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.150 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.150/0.150/0.150/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：16.6
+内存利用率：33.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.084 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.084/3.084/3.084/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.163 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.163/0.163/0.163/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：13.4
+内存利用率：33.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=6.368 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 6.368/6.368/6.368/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.171 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.171/0.171/0.171/nan ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：13.9
+内存利用率：33.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=16.175 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 16.175/16.175/16.175/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.157 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.157/0.157/0.157/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：33.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=19.094 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 19.094/19.094/19.094/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.162 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.162/0.162/0.162/nan ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：33.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=27.737 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 27.737/27.737/27.737/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.174 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.174/0.174/0.174/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：5.2
+内存利用率：33.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=2.922 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.922/2.922/2.922/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.167 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.167/0.167/0.167/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：6.0
+内存利用率：33.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.186 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.186/3.186/3.186/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.157 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.157/0.157/0.157/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：33.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=8.771 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 8.771/8.771/8.771/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.156 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.156/0.156/0.156/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：34.1
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=22.897 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 22.897/22.897/22.897/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.195 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.195/0.195/0.195/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：17.4
+内存利用率：35.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=4.263 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.263/4.263/4.263/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.164 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.164/0.164/0.164/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：35.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=2.947 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.947/2.947/2.947/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.171 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.171/0.171/0.171/nan ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：36.1
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.273 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.273/3.273/3.273/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.164 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.164/0.164/0.164/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：3.9
+内存利用率：33.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.327 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.327/3.327/3.327/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.098 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.098/0.098/0.098/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：10.1
+内存利用率：34.2
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=6.347 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 6.347/6.347/6.347/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.159 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.159/0.159/0.159/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：5.8
+内存利用率：32.3
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.599 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.599/3.599/3.599/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.165 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.165/0.165/0.165/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：7.2
+内存利用率：30.9
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=18.749 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 18.749/18.749/18.749/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.177 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.177/0.177/0.177/nan ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：15.8
+内存利用率：31.3
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.255 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.255/3.255/3.255/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.157 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.157/0.157/0.157/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：31.4
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.236 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.236/3.236/3.236/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.151 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.151/0.151/0.151/nan ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：15.1
+内存利用率：31.3
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.895 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.895/3.895/3.895/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.189 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.189/0.189/0.189/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：31.3
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.186 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.186/3.186/3.186/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.149 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.149/0.149/0.149/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：7.5
+内存利用率：30.6
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=230.220 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 230.220/230.220/230.220/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.144 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.144/0.144/0.144/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：6.3
+内存利用率：30.4
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=7.062 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 7.062/7.062/7.062/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.125 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.125/0.125/0.125/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：30.4
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.040 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.040/3.040/3.040/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.145 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.145/0.145/0.145/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：1.2
+内存利用率：30.4
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=2.988 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.988/2.988/2.988/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.157 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.157/0.157/0.157/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：4.1
+内存利用率：30.4
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=4.517 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.517/4.517/4.517/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.158 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.158/0.158/0.158/nan ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：5.4
+内存利用率：30.4
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.124 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.124/3.124/3.124/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.170 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.170/0.170/0.170/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：8.7
+内存利用率：30.8
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=2.997 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.997/2.997/2.997/0.000 ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.155 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.155/0.155/0.155/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：2.6
+内存利用率：30.4
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=2.917 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.917/2.917/2.917/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.184 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.184/0.184/0.184/nan ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：30.4
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=10.957 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 10.957/10.957/10.957/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.159 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.159/0.159/0.159/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：6.1
+内存利用率：30.9
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=77.777 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 77.777/77.777/77.777/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.181 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.181/0.181/0.181/0.000 ms
+
+====================================================================================================
+====================================================================================================
+cpu利用率：0.0
+内存利用率：26.1
+检测IP：192.168.1.1，结果：PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=7.379 ms
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 7.379/7.379/7.379/nan ms
+
+检测IP：192.168.1.24，结果：PING 192.168.1.24 (192.168.1.24): 56 data bytes
+64 bytes from 192.168.1.24: icmp_seq=0 ttl=64 time=0.072 ms
+
+--- 192.168.1.24 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.072/0.072/0.072/0.000 ms
+
+====================================================================================================

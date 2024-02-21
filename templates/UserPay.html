@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户缴费</title>
+    <link rel="stylesheet" href="{{ static('userpay.css') }}">
+</head>
+<body>
+<header>
+    <h1>缴费信息填写</h1>    
+</header>
+<main>
+    <form action="{{ url('user_pay') }}" class="form-pay">
+        {{ csrf_input }}
+        <label>
+            水费：<input type="text" name="water"><br>
+        </label>
+        <label>
+            电费：<input type="text" name="electricity"><br>
+        </label>
+        <label>
+            燃气费：<input type="text" name="gas"><br>
+        </label>
+        <button type="submit" formmethod="post">提交</button>
+    </form>
+</main>
+</body>
+</html>

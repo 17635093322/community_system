@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url('https://th.bing.com/th/id/R.ccb580acf4f95f5357cf8eb3ce16ff35?rik=D9Ja6RgfsF0j9g&riu=http%3a%2f%2fsheencity-bj.oss-cn-hangzhou.aliyuncs.com%2fofficial-site%2fpictures%2f2014-09%2f01%2fa77afe1c234db932c40f265859ad2776.jpg&ehk=55TsiSP2MA76SwA2eVn6XoVk3ZwTRT0MTwT8m5pJcJ8%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+header {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    background-color: rgb(203, 11, 11);
+    border: brown 10px solid;
+    font-size: 30px;
+    border-radius: 10px;
+    width: 7cm;
+    text-align: center;
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*text-align: center;*/
+}
+.form-pay {
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: rgb(243, 114, 114, 0.89);
+    border: red 10px solid;
+    width: 10cm;
+    height: 12cm;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+input {
+    width: 50%;
+    height: 0.5em; /* 调整输入框的高度 */
+    border: 1px solid #ccc;
+    border-radius: 5px; /* 圆角 */
+    padding: 0.5em; /* 调整输入框内边距 */
+    font-size: 1em; /* 调整字体大小 */
+    margin: 10px; /* 调整底部外边距 */
+}
+button {
+    margin-top: 25px;
+    width: 9cm;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 8px;
+    background-color: rgba(255, 88, 88, 1);
+}

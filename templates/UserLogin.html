@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>用户登陆</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ static('login.css') }}">
+</head>
+<body>
+<div class="form-login">
+    <h1>用户登陆</h1>
+    <br>
+    <form action="{{ url('user_info') }}">
+        {{ csrf_input }}
+        <label>
+            账户：<input type="text" name="userid">
+        </label>
+        <br>
+        <label>
+            密码：<input type="password" name="password">
+        </label>
+        <br>
+        <button type="submit" formmethod="post">提交</button>
+    </form>
+</div>
+</body>
+</html>

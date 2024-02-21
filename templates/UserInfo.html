@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户信息</title>
+    <link rel="stylesheet" href="{{ static('userinfo.css') }}">
+</head>
+<body>
+<header>
+    <h1>用户信息</h1>
+    <h1>{{ address }}缴费信息</h1>
+</header>
+
+<main>
+    <div class="userinfo">
+        <span>姓名：{{ name }}</span>
+        <br>
+        <span>电话：{{ phone }}</span>
+        <br>
+        <span>性别：{{ gender }}</span>
+        <br>
+        <span>邮箱：{{ email }}</span>
+        <br>
+        <span>身份证：{{ user_id }}</span>
+        <br>
+    </div>
+    <div class="addressinfo">
+        <span>水费：{{ water }}</span>
+        <br>
+        <span>电费：{{ electricity }}</span>
+        <br>
+        <span>燃气费：{{ gas }}</span>
+        <br>
+    </div>
+</main>
+<a href="{{ url('user_pay') }}" class="pay_a"><span>缴费</span></a>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>社区通知主页</title>
+    <link rel="stylesheet" href="{{ static('main.css') }}">
+</head>
+<body>
+<header>
+    <h1>凤翔社区通知面板</h1>    
+</header>
+
+<div id="main_aside">
+    <main>
+        <div>你好，欢迎来到凤翔社区的通知面板！</div>
+        <br>
+        <div>最新通知：</div>
+        <ul>
+            {% for sender_content in contents %}
+                <li class="article">{{ contents[sender_content] }}</li>
+            {% endfor %}
+        </ul>
+        
+    </main>
+    
+    <aside>
+        <div style="font-size: 30px">
+            当前车库车辆状况：
+            {{ number }}/360
+        </div>
+        <br>
+        <div class="login-button"><a href="{{ url('user_login') }}">普通用户登陆</a></div>
+        <br>
+        <div class="login-button"><a href="{{ url('parking_login') }}">停车管理员登陆</a></div>
+        <br>
+        <div class="login-button"><a href="{{ url('network_login') }}">网络管理员登陆</a></div>
+        <br>
+    </aside>
+</div>
+
+</body>
+
+</html>

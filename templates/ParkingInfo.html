@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>车库管理界面</title>
+    <link rel="stylesheet" href="{{ static('parkinginfo.css') }}">
+</head>
+<body>
+<header>
+    <h1>车库信息</h1>
+</header>
+
+<main>
+    <div class="addressinfo">
+        <a id="add" href="{{ url('parking_add') }}">+</a>
+        <span>车辆：{{ number }}</span>
+        <a id="sub" href="{{ url('parking_sub') }}">-</a>
+    </div>
+</main>
+
+</body>
+<script>
+    const add = document.getElementById("add");
+    const sub = document.getElementById("sub");
+    const number = {{ number }}
+    function adddisatter() {
+        if (number >= 360) {
+            add.style.pointerEvents = "none"
+        }
+    }
+    function subdisatter() {
+        if (number <= 0) {
+            sub.style.pointerEvents = "none"
+        }
+    }
+    adddisatter();
+    subdisatter();
+</script>
+</html>

@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <title>性能监测</title>
+    <style>
+        body{
+            font-family: 'Microsoft Yahei', sans-serif;
+            color:#333333;
+        }
+        #container{
+            margin: 0 auto;
+            width: 100%;
+            height: 600px;
+        }
+        h1{
+            text-align:center;
+            font-size:32px;
+            margin:30px 0;
+            color:#333333;
+        }
+    </style>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@5.4.2/dist/echarts.min.js"></script>
+</head>
+<body>
+<h1>性能监测</h1>
+<div id="container_1" style="width: 100%; height: 400px;"></div>
+<div id="container_2" style="width: 100%; height: 400px;"></div>
+<h1>ping值检测</h1>
+{% for host in dictionary %}
+    <hr>
+    <span>{{ host }}</span>
+    <div>检测内容如下：</div>
+    {% for ping_ct in dictionary[host] %}
+        <span>{{ ping_ct }}</span><br>
+    {% endfor %}
+{% endfor %}
+<script type="text/javascript">
+    var myChart_1 = echarts.init(document.getElementById('container_1'));
+    var option = {
+        title:{
+            text:"CPU利用率 | 内存利用率",
+            textStyle:{
+                color:"#333333",
+                fontSize: 18,
+                lineHeight:26
+            },
+            left:'center'
+        },
+        tooltip:{
+            trigger: 'axis',
+        },
+        grid: {
+  
+        },
+        toolbox:{
+          feature:{
+              saveAsImage:{}
+          }
+        },
+        xAxis: [{
+            type: 'category',
+            boundaryGap: false,
+            
+            data: {{ datetimes | safe }}
+        }],
+        yAxis: [
+            {
+            type: 'value',
+            scale:true,
+            name: 'CPU利用率',
+            max:100,
+            min:0,
+            nameTextStyle:{
+                color:'#FFA726'
+            },
+            axisLabel: {
+                formatter: '{value}%'
+            },
+            splitLine:{
+                lineStyle:{
+                    color:'rgba(128, 128, 128, 0.5)'
+                }
+            }
+        },
+            {
+            type: 'value',
+            scale:true,
+            name: '内存利用率',
+            max:100,
+            min:0,
+            nameTextStyle:{
+                color:'#66BB6A'
+            },
+            axisLabel: {
+                formatter: '{value}%'
+            },
+            splitLine:{
+                lineStyle:{
+                    color:'rgba(128, 128, 128, 0.5)'
+                }
+            }
+        }],
+        series: [
+            {
+            name: 'CPU利用率',
+            type: 'line',
+            stack: 'Total',
+            data: {{ cpu_data }}
+            },
+            {
+            name: '内存利用率',
+            type: 'line',
+            stack: 'Total',
+            data: {{ memory_data }}
+        }]
+    };
+    myChart_1.setOption(option);
+    
+    var myChart_2 = echarts.init(document.getElementById('container_2'));
+    var option = {
+        title:{
+            text:"下行速率 | 上行速率",
+            textStyle:{
+                color:"#333333",
+                fontSize: 18,
+                lineHeight:26
+            },
+            left:'center'
+        },
+        tooltip:{
+            trigger: 'axis',
+        },
+        grid: {
+  
+        },
+        toolbox:{
+          feature:{
+              saveAsImage:{}
+          }
+        },
+        xAxis: [{
+            type: 'category',
+            boundaryGap: false,
+            
+            data: {{ datetimes | safe }}
+        }],
+        yAxis: [
+            {
+            type: 'value',
+            scale:true,
+            name: '下行速率',
+            max:1000,
+            min:0,
+            nameTextStyle:{
+                color:'#FFA726'
+            },
+            axisLabel: {
+                formatter: '{value}Mbps'
+            },
+            splitLine:{
+                lineStyle:{
+                    color:'rgba(128, 128, 128, 0.5)'
+                }
+            }
+        },
+            {
+            type: 'value',
+            scale:true,
+            name: '上行速率',
+            max:1000,
+            min:0,
+            nameTextStyle:{
+                color:'#66BB6A'
+            },
+            axisLabel: {
+                formatter: '{value}Mbps'
+            },
+            splitLine:{
+                lineStyle:{
+                    color:'rgba(128, 128, 128, 0.5)'
+                }
+            }
+        }],
+        series: [
+            {
+            name: '下行速率',
+            type: 'line',
+            stack: 'Total',
+            data: {{ download_speed }}
+            },
+            {
+            name: '上行速率',
+            type: 'line',
+            stack: 'Total',
+            data: {{ upload_speed }}
+        }]
+    };
+    myChart_2.setOption(option);
+</script>
+</body>
+</html>

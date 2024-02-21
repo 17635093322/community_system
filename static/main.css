@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+body {
+    background-image: url('https://th.bing.com/th/id/R.ccb580acf4f95f5357cf8eb3ce16ff35?rik=D9Ja6RgfsF0j9g&riu=http%3a%2f%2fsheencity-bj.oss-cn-hangzhou.aliyuncs.com%2fofficial-site%2fpictures%2f2014-09%2f01%2fa77afe1c234db932c40f265859ad2776.jpg&ehk=55TsiSP2MA76SwA2eVn6XoVk3ZwTRT0MTwT8m5pJcJ8%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    background-color: rgba(224, 134, 10, 0.65);
+    font-size: 50px;
+    width: 13cm;
+    height: 2cm;
+    border-radius: 10px;
+}
+#main_aside {
+    display: flex;
+    min-height: 70vh;
+}
+main {
+    flex: 70%;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color: rgba(173, 216, 230, 0.45);
+}
+ul {
+    list-style-type: none;
+}
+.article {
+    padding: 20px 20px;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.85);
+    color: black;
+    margin: 10px 20px;
+    min-height: 130px;
+}
+aside {
+    flex: 30%;
+    padding: 20px;
+    margin-right: 10px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.login-button {
+    padding: 10px 20px;
+    font-size: 30px;
+    background-color: #8e44ad;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-align: center;
+}
+.login-button:hover {
+    background-color: #6c3483;
+}

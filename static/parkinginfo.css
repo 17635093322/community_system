@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body, html {
+    height: 100%;
+    background-image: url('https://ts1.cn.mm.bing.net/th/id/R-C.ff6f74a4b1e109ef223e5ff7a5e2c094?rik=g0m%2fsyh9T9tvew&riu=http%3a%2f%2fimg.qingmo.com%2f11080%2f2021%2f06%2f11%2febe094caca7111ebbf2f000c29526d51.jpg&ehk=9RQ0nx1rcdq6HZjQ5TJutFp0oVrgS2s0YmjaItgH0Ig%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 30px 0;
+}
+h1 {
+    border-radius: 8px;
+    background-color: rgb(110, 213, 38, 1);
+    width: 10cm;
+}
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.userinfo, .addressinfo {
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(255, 255, 255, 0.75);
+    width: 12cm;
+    height: 15cm;
+    padding: 20px;
+    border-radius: 10px;
+    border: white 10px solid;
+}
+a {
+    font-size: 30px;
+    border-radius: 10px;
+    border: #8e44ad 10px solid;
+    background-color: rgb(200, 149, 229, 0.95);
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+span {
+    display: block;
+    text-align: center;
+}
